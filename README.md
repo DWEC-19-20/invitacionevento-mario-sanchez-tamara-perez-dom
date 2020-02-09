@@ -21,3 +21,16 @@ Completa todas las historias utilizando DOM
 1) Cómo Administrador del evento me confirme antes de borrar un invitado al evento para evitar cometer un error
 1) Cómo Administrador del evento querría que no se pudiera repetir el nombre de un invitado al evento ni añadir nombres vacios para evitar errores
 
+En el README se añadirán las tareas de cada historia de usuario y el autor de cada una de ellas.
+Tamara ha realizado: 
+Añadir 
+Editar 
+Borrar
+Evitar repetición de nombres
+Comentarios
+
+Mario ha realizado:
+Confirmar invitados
+Mostrar solo confirmados
+README
+TEST
